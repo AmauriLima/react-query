@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Amauri",
+      "email": "amauri.plimaj@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Katarina",
+      "email": "katarina.bonfim@gmail.com"
+    },
+    {
+      "id": "c246",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "a6b3",
+      "name": "teste",
+      "email": "teste@teste.com"
+    },
+    {
+      "id": "3fa0",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "4816",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "c67a",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "95c5",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "0821",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "a5e4",
+      "name": "",
+      "email": ""
+    },
+    {
+      "id": "dc33",
+      "name": "teste",
+      "email": "teste"
+    },
+    {
+      "id": "5aee",
+      "name": "testeasdjhsajdkh",
+      "email": "dkjhajdshak"
+    },
+    {
+      "id": "ca18",
+      "name": "teste",
+      "email": "teste@gmail.com"
+    },
+    {
+      "id": "7f5b",
+      "name": "TESTE",
+      "email": "TESTE"
+    }
+  ]
+}
